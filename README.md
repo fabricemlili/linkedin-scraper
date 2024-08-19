@@ -20,7 +20,6 @@ pip install selenium beautifulsoup4 pandas python-dotenv python-dateutil
 ```
 
 ## Setup
-
 ##### 1) WebDriver Installation:
 You need ChromeDriver for Selenium. Download it from here and ensure it's accessible via your system's PATH.
 
@@ -75,7 +74,6 @@ While the current script is functional, several improvements are planned to enha
 3. Scrape the user's LinkedIn feed.
 
 ## Notes
-
 - WebDriver Configuration: The script uses the default Chrome WebDriver. You can customize Chrome options if needed.
 - LinkedIn Changes: LinkedIn's HTML structure or login process changes may require updates to the script.
 - Rate Limiting: Frequent or extensive scraping can lead to human verification (with a schema to solve) at the very least, and temporary account restrictions by LinkedIn at worst.
