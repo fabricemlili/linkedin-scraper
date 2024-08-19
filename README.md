@@ -81,7 +81,6 @@ While the current script is functional, several improvements are planned to enha
 - Rate Limiting: Frequent or extensive scraping can lead to human verification (with a schema to solve) at the very least, and temporary account restrictions by LinkedIn at worst.
 
 ## Author
-
 Fabrice Mlili
 
 ## License
