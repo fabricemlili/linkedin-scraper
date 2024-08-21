@@ -1,5 +1,9 @@
 # LinkedIn Scraper
-
+![Python Version](https://img.shields.io/badge/python-3.x-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/main.yml?branch=main)
+![Dependencies](https://img.shields.io/librariesio/github/username/repo)
+![Last Commit](https://img.shields.io/github/last-commit/username/repo)
 A simple Python script to scrape content and metadata from posts on the [LinkedIn](https://www.linkedin.com/feed/) accounts of individuals and companies. It utilizes the selenium library for automating web browser interaction, and BeautifulSoup for parsing HTML content. This script can help gather valuable insights from LinkedIn posts, such as post content, engagement metrics (likes, comments, shares), and author information.
 
 ## Prerequisites
