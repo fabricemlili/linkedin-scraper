@@ -46,11 +46,11 @@ To use the script, follow these steps:
 ###### 1. Clone the repository or download the script.
 
 ```bash
-git clone https://github.com/fabricemlili/journalducoin-scraper.git
+git clone https://github.com/fabricemlili/linkedin-scraper.git
 ```
 ###### 2. Navigate to the script's directory.
 ```bash
-cd journalducoin-scraper
+cd linkedin-scraper
 ```
 ###### 3. Run the script by executing the following command in your terminal:
 ```bash
