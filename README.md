@@ -8,7 +8,7 @@ A simple Python script to scrape content and metadata from posts on the [LinkedI
 
 Before running the script, make sure you have the following dependencies installed:
 
-- Python 3
+- [Python 3](https://www.python.org/downloads/)
 - beautifulsoup4
 - selenium
 - pandas
